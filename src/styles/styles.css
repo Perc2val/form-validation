@@ -32,33 +32,22 @@ form {
     grid-row: 1 / 2;
     grid-column: 1 / 2 ;
 }
-
-
 .containerPostalCode {
     grid-row: 2 / 3;
     grid-column: 1 / 2;
-    
 }
-
-
 .containerArea {
     grid-row: 2 / 3;
     grid-column: 2 / 3;
     
 }
-
-
 .containerPassword {
     grid-row: 3 / 4;
-    grid-column: 1 / 2;
-    
+    grid-column: 1 / 2; 
 }
-
-
 .containerPasswordConfirmation{
     grid-row: 3 / 4;
-    grid-column: 2 / 3;
-    
+    grid-column: 2 / 3; 
 }
 
 .container {
@@ -76,6 +65,7 @@ form {
     justify-content: right;
     align-items: center;
 }
+
 .signUpButton {
     grid-row: 4 / 5;
     grid-column: 1 / 3;
